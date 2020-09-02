@@ -1,7 +1,7 @@
   # Covid 19 Tracker
   
   ## WireFrame
- - loading...
+ ![Covid Tacker](https://user-images.githubusercontent.com/59593893/91998605-684caa00-ed76-11ea-9c66-849dbdb438b1.jpg)
 
  ## Component
  - Table.js
