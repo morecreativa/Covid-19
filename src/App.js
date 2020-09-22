@@ -50,13 +50,7 @@ function App() {
           setCountries(countries);
         });
     };
-    // maybe something is changed??
-    //
-    // maybe something is changed??
-    // maybe something is changed??
-    // maybe something is changed??
-    // maybe something is changed??
-    
+
     getCountriesData();
   }, []);
 
