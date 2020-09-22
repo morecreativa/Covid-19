@@ -50,7 +50,7 @@ function App() {
           setCountries(countries);
         });
     };
-
+    // maybe something is changeed??
     getCountriesData();
   }, []);
 
