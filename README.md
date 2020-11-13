@@ -28,5 +28,6 @@
 ### :telescope: Look Forward
 - Navigation with World, About
 - World new cases Graph changes with new country
-- Start from s.korea
+- Map Start from s.korea
 - Google banner
+- because the circle's size is too big to consider world's border, it makes color more red in each world
